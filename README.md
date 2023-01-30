@@ -1,4 +1,4 @@
-## Olá, Luka aqui! 🖖
+## Olá, Luka aqui! 🖖🏳️
 
 <div align="rigth">
   <a href="https://github.com/DevLukaMorais">
@@ -18,8 +18,6 @@
   <a href="https://www.instagram.com/mov.luka/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/oohluka" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:imtsuykio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/DevLukaMorais/DevLukaMorais/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
